@@ -14,9 +14,6 @@
     </p>
     <h3>Saldo actual:</h3>
     <p style="font-size: 30px;">$ 4000</p>
-    <p class="lead">
-        <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Jumbo action name</a>
-    </p>
 </div>
 
 <?php include("template/footer.php"); ?>

@@ -5,9 +5,7 @@
     <div class="jumbotron">
         <h1 class="display-3">Bienvenido Administrador!</h1>
         <hr class="my-2">
-        <p class="lead">
-            <a class="btn btn-primary btn-lg" href='./depositos.php' role="button">Ver ultimos depositos</a>
-        </p>
+        <p class="lead"></p>
     </div>
 </div>
 
